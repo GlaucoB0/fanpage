@@ -9,3 +9,14 @@
   justify-content: space-between;
   height: 100vh;
 }
+main{
+  padding: 20px;
+}
+a{
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.2s;
+}
+a:hover{
+  background-color: rgb(92, 92, 92);
+}

@@ -1,7 +1,9 @@
 
 const Home = () => {
   return (
-    <div>Site para mostrar personagens do mundo dos animes!</div>
+    <div>
+      <h1>Wiki Haikyuu!</h1>
+    </div>
   )
 }
 

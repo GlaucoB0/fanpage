@@ -8,18 +8,26 @@ import {
   Route,
   Routes,
 } from "react-router-dom";
+
 import Characters from "../Characters/Characters";
-import Hinata from "../Characters/Hinata";
+import Character from "../Characters/Character";
+import Teams from "../Teams/Teams";
+import Team from "../Teams/Team";
+import About from "../About/About";
 
 const App = () => {
+
   return (
     <BrowserRouter>
       <Header />
 
       <Routes>
         <Route path='/' element={<Home />} />
+        <Route path='/About' element={<About />} />
         <Route path='/Characters' element={<Characters />} />
-        <Route path='/Character/Hinata' element={<Hinata />} />
+        <Route path='/Teams' element={<Teams />} />
+        <Route path='/Teams/:team' element={<Team />} />
+        <Route path={`/Character/:linkNome`} element={<Character />} />
       </Routes>
 
       <Footer/>

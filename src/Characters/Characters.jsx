@@ -1,20 +1,29 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
-
-const Card = styled.div`
-height: 400px;
-width: 200px;
-`
+import data from '../data.json'
+import { 
+  Container,
+  Card,
+  ImgCard
+ } from "./characters.js";
 
 const Characters = () => {
+
   return (
-    <div>
-      <Card>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdhD8f-wSvbu9OLFKqFmjqI7ekDoMM7Wk8CdsdZyHPtHTF9MWV-b0BDIHpK6Y6TwQksA&usqp=CAU" alt="" />
-        <Link to={'/Character/Hinata'}>Descobrir Personagem</Link>
-      </Card>
-    </div>
+    <main>
+      <Container>
+        {data.jogadores.map((personagem) => {
+          return (
+            <Card>
+              <ImgCard src={personagem.img.imgCard}></ImgCard>
+              <p>{personagem.nome}</p>
+              <Link to={`/Character/${personagem.linkNome}`}>Saiba mais</Link>
+            </Card>
+          )
+        })}
+      </Container>
+    </main>
   )
 }
 

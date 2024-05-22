@@ -1,0 +1,177 @@
+{
+  "jogadores": [
+    {
+      "nome": "Shoyo Hinata",
+      "linkNome": "ShoyoHinata",
+      "anime": "Haikyuu!",
+      "equipe": "Karasuno",
+      "NomeJapones": "日ひ向なた翔しょう陽",
+      "desc": "Shoyo Hinata (日ひ向なた翔しょう陽よう Hinata Shōyō?) é o principal protagonista de Haikyuu!!. Ele é estudante do primeiro ano no Colégio Karasuno e é um dos bloqueadores do meio da equipe de vôlei. O sonho de Hinata é tornar-se forte o suficiente para ultrapassar os altos bloqueadores, assim como o Pequeno Gigante fez. No entanto, uma vez que ele não tem altura para um bloqueador médio, ele é especialista em saltar para compensar. Após se formar no colégio, ele viajou até o Brasil para treinar vôlei de praia por dois anos. E ao retornar para o Japão ele se tornou membro do time MSBY Black Jackals, 1ª divisão na Liga V.",
+      "img": {
+        "imgCard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdhD8f-wSvbu9OLFKqFmjqI7ekDoMM7Wk8CdsdZyHPtHTF9MWV-b0BDIHpK6Y6TwQksA&usqp=CAU",
+        "imgGrande": "https://upload.wikimedia.org/wikipedia/en/5/55/Shoyo_Hinata.png"
+      }
+    },
+    {
+      "nome": "Tobio Kageyama",
+      "linkNome": "TobioKageyama",
+      "anime": "Haikyuu!",
+      "equipe": "Karasuno",
+      "NomeJapones": "影山 飛雄",
+      "desc": "Tobio Kageyama (Japanese: 影山かげやま 飛雄とびお Kageyama Tobio) is the deuteragonist of the Haikyū!! series. For the majority of the series, he is a first-year student at Karasuno High School and plays as the starting setter for the boys' volleyball club. He was chosen to train at the All-Japan youth training camp during his first year of high school and joined the V. League as soon as he graduated. He became a part of Japan's national volleyball team at the age of 19, participating in the Rio Olympics in 2016. In November 2018, he was playing as a setter for the Japanese V-League Division 1 team Schweiden Adlers. Currently, he is a member of Ali Roma, an Italian professional team in Italy's Serie A.",
+      "img": {
+        "imgCard": "https://favim.com/pd/s11/orig/7/719/7190/71905/kageyama-icons-volleyball-Favim.com-7190563.jpg",
+        "imgGrande": "https://i.pinimg.com/originals/d3/fc/dc/d3fcdc9c84e2183cd2f9dde2ab9424c6.png"
+      }
+    },
+    {
+      "nome": "Yu Nishinoya",
+      "linkNome": "YuNishinoya",
+      "anime": "Haikyuu!",
+      "equipe": "Karasuno",
+      "NomeJapones": "西にしの谷や夕ゆう",
+      "desc": "Yu Nishinoya (西にしの谷や夕ゆう Nishinoya Yū?) é aluno do 2º ano da escola Karasuno. Ele é membro do time de voleibol da escola e atua como o Líbero do time. Seus colegas de time o apelidaram de Divino Guardião da Karasuno.",
+      "img": {
+        "imgCard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosHMmhRGmc3f2rMNnLdTrIHLvg6H1XAjS2cPFRGLb9A&s",
+        "imgGrande": "https://i.pinimg.com/originals/e9/f7/91/e9f791381e8bcffcfc5e8ddd17477db2.png"
+      }
+    },
+    {
+      "nome": "Kei Tsukishima",
+      "linkNome": "KeiTsukishima",
+      "anime": "Haikyuu!",
+      "equipe": "Karasuno",
+      "NomeJapones": "月つき島しま蛍",
+      "desc": "Kei Tsukishima (月つき島しま蛍けい Tsukishima Kei?) é aluno do primeiro ano na escola Karasuno, ele é um bloqueador central no time de vôlei da escola. Irmão mais novo de Akiteru Tsukishima.",
+      "img": {
+        "imgCard": "https://uploads.spiritfanfiction.com/historias/capas/202108/imprevisivel-imagine-tsukishima-kei-22827789-150820210206.jpg",
+        "imgGrande": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/17945c27-4d87-49e9-87f1-8f09067550bb/d9ddpjy-a27fae77-9444-40b3-8c41-31e015dc600f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE3OTQ1YzI3LTRkODctNDllOS04N2YxLThmMDkwNjc1NTBiYlwvZDlkZHBqeS1hMjdmYWU3Ny05NDQ0LTQwYjMtOGM0MS0zMWUwMTVkYzYwMGYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4nMoYLHmb1zUTyutJTqTaZf9pPj3gO7T-cc13v3RiLE"
+      }
+    },
+    {
+      "nome": "Tadashi Yamaguchi",
+      "linkNome": "TadashiYamaguchi",
+      "anime": "Haikyuu!",
+      "equipe": "Karasuno",
+      "NomeJapones": "山やま口ぐち忠ただし",
+      "desc": "Tadashi Yamaguchi (山やま口ぐち忠ただし Yamaguchi Tadashi?) é aluno do primeiro ano no colégio Karasuno.",
+      "img": {
+        "imgCard": "https://i.pinimg.com/736x/41/88/35/418835067748f27a616996e3b628c064.jpg",
+        "imgGrande": "https://i.pinimg.com/originals/a2/38/58/a2385898f99131870bdaf3b87ac851f9.png"
+      }
+    },
+    {
+      "nome": "Toru Oikawa",
+      "linkNome": "ToruOikawa",
+      "anime": "Haikyuu!",
+      "equipe": "Aoba Johsai",
+      "NomeJapones": "及おい川かわ徹とおる",
+      "desc": "Toru Oikawa (及おい川かわ徹とおる Oikawa Tōru?) , também conhecido como Tohru Oikawa na tradução para o inglês, é um levantador do Club Atlético San Juan, uma equipe profissional da Federação Argentina de Voleibol. Na maioria da série, ele era um aluno do terceiro ano do colégio Aobajohsai, servindo como capitão e craque do time de vôlei da escola. Ele é o principal antagonista dos Arcos Preliminares Interhigh e Spring High.",
+      "img": {
+        "imgCard": "https://i1.sndcdn.com/artworks-000105430714-q9xfar-t500x500.jpg",
+        "imgGrande": "https://img1.picmix.com/output/stamp/normal/3/5/1/8/2148153_a3bc4.png"
+      }
+    },
+    {
+      "nome": "Kenma Kozume",
+      "linkNome": "KenmaKozume",
+      "anime": "Haikyuu!",
+      "equipe": "Nekoma",
+      "NomeJapones": "孤こ爪ずめ 研けん磨",
+      "desc": "Kenma Kozume (孤こ爪ずめ 研けん磨ま Kozume Kenma?) é um estudante do segundo ano na escola Nekoma. Ele é o levantador do clube de vôlei da escola. Em 2018, ele é estudante da universidade, YouTuber e gamer profissional.",
+      "img": {
+        "imgCard": "https://i.pinimg.com/originals/6e/f7/d4/6ef7d407d81b9c6928bb82a496bb6505.png",
+        "imgGrande": "https://img1.picmix.com/output/stamp/normal/2/1/3/5/1845312_f50f1.png"
+      }
+    },
+    {
+      "nome": "Hajime Iwaizumi",
+      "linkNome":"HajimeIwaizumi",
+      "anime": "Haikyuu!",
+      "equipe": "Aoba Johsai",
+      "NomeJapones": "岩泉 一",
+      "desc": "Hajime Iwaizumi ( japonês :岩泉いわいずみ 一はじめ Iwaizumi Hajime )era um estudante do terceiro ano daAoba Johsai High. Ele foi ponta-de-lança, craque e vice-capitão do time masculino de vôlei. Depois de terminar o ensino médio, Iwaizumi foi para a faculdade e se formou em ciências do esporte. Em 2021, ele é treinador esportivo e trabalha com a Seleção Japonesa de Voleibol.",
+      "img": {
+        "imgCard": "https://i.pinimg.com/474x/eb/33/63/eb3363e03199e2cd6e1e4bab9d204228.jpg",
+        "imgGrande": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c95eae20-c7c0-4846-882a-b5849a73ea72/dcmmzu9-11ded1e6-ec6e-4d7c-bf1a-954629c5e96a.png/v1/fill/w_500,h_289/iwa_by_tenseiii_dcmmzu9-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Mjg5IiwicGF0aCI6IlwvZlwvYzk1ZWFlMjAtYzdjMC00ODQ2LTg4MmEtYjU4NDlhNzNlYTcyXC9kY21tenU5LTExZGVkMWU2LWVjNmUtNGQ3Yy1iZjFhLTk1NDYyOWM1ZTk2YS5wbmciLCJ3aWR0aCI6Ijw9NTAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.RgIxKrrnyq9yRvaJU4wgNqcENmOAQZbnYQ_HW9ei8XU"
+      }
+    },
+    {
+      "nome": "Kunimi Akira",
+      "linkNome":"KunimiAkira",
+      "anime": "Haikyuu!",
+      "equipe": "Aoba Johsai",
+      "NomeJapones": "孤こ爪ずめ 研けん磨",
+      "desc": "Akira Kunimi ( japonês :国見くにみ 英あきら Kunimi Akira )era uma estudante do primeiro ano da Aoba Johsai High. Ele foi ponta-de-lança titular do Boys' Volleyball Club. A partir de 2018, ele é um estudante universitário e trabalhará em um banco em Miyagi após se formar.",
+      "img": {
+        "imgCard": "https://pbs.twimg.com/profile_images/1445402288370094081/m4btWehi_400x400.jpg",
+        "imgGrande": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a155f0b1-4492-4c2c-9f70-101cec027cb9/dehkyps-3aa5860f-fb18-48d3-9281-f86d40c93569.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ExNTVmMGIxLTQ0OTItNGMyYy05ZjcwLTEwMWNlYzAyN2NiOVwvZGVoa3lwcy0zYWE1ODYwZi1mYjE4LTQ4ZDMtOTI4MS1mODZkNDBjOTM1NjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Piq6V_au5ooW-3vGl6HZwXrTuCUFu_WWSr7dXStymj0"
+      }
+    }
+  ],
+  "equipes": [
+    {
+      "nome":"Karasuno",
+      "img": "https://a.allegroimg.com/s512/111755/bfda0b7b47d0a4b4e4776ca2c1ae/Przypinka-Anime-Haikyuu-Karasuno-58-mm",
+      "jogadores":[
+        {
+          "nome":"Shoyo Hinata",
+          "linkNome":"ShoyoHinata",
+          "imgCard": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIdhD8f-wSvbu9OLFKqFmjqI7ekDoMM7Wk8CdsdZyHPtHTF9MWV-b0BDIHpK6Y6TwQksA&usqp=CAU"
+        },
+        {
+          "nome":"Kei Tsukishima",
+          "linkNome":"KeiTsukishima",
+          "imgCard": "https://uploads.spiritfanfiction.com/historias/capas/202108/imprevisivel-imagine-tsukishima-kei-22827789-150820210206.jpg"
+        },
+        {
+          "nome":"Tadashi Yamaguchi",
+          "linkNome":"TadashiYamaguchi",
+          "imgCard": "https://i.pinimg.com/736x/41/88/35/418835067748f27a616996e3b628c064.jpg"
+        },
+        {
+          "nome": "Tobio Kageyama",
+          "linkNome":"TobioKageyama",
+          "imgCard": "https://favim.com/pd/s11/orig/7/719/7190/71905/kageyama-icons-volleyball-Favim.com-7190563.jpg"
+        },
+        {
+          "nome": "Yu Nishinoya",
+          "linkNome":"YuNishinoya",
+          "imgCard": "https://i.pinimg.com/736x/41/88/35/418835067748f27a616996e3b628c064.jpg"
+        }
+      ]
+    },
+    {
+      "nome":"Aoba Johsai",
+      "img": "https://i.pinimg.com/originals/49/58/fc/4958fcce6ac33f33cd2feb1bbc740283.jpg",
+      "jogadores":[
+        {
+          "nome": "Toru Oikawa",
+          "linkNome":"ToruOikawa",
+          "imgCard": "https://i1.sndcdn.com/artworks-000105430714-q9xfar-t500x500.jpg"
+        },
+        {
+          "nome": "Kunimi Akira",
+          "linkNome":"KunimiAkira",
+          "imgCard": "https://i1.sndcdn.com/artworks-000105430714-q9xfar-t500x500.jpg"
+        },
+        {
+          "nome": "Hajime Iwaizumi",
+          "linkNome":"HajimeIwaizumi",
+          "imgCard": "https://i.pinimg.com/474x/eb/33/63/eb3363e03199e2cd6e1e4bab9d204228.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Nekoma",
+      "img":"https://i.pinimg.com/originals/b8/88/12/b8881247417b229b34758d5cd05f8400.jpg",
+      "jogadores":[
+        {
+          "nome":"Kenma Kozume",
+          "linkNome": "KenmaKozume",
+          "imgCard": "https://i.pinimg.com/originals/6e/f7/d4/6ef7d407d81b9c6928bb82a496bb6505.png"
+        }
+      ]
+    }
+  ]
+}
