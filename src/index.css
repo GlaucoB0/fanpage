@@ -11,6 +11,12 @@
 }
 main{
   padding: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+main div{
+  margin: 0 auto;
 }
 a{
   font-weight: bold;

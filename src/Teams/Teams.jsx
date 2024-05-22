@@ -20,17 +20,21 @@ const Teams = () => {
 
   return (
     <main>
-      <Container>
-        {data.equipes.map((equipe) => {
-          return (
-            <Card>
-              <ImgCard src={equipe.img}></ImgCard>
-              <p>{equipe.nome}</p>
-              <Link to={`/Teams/${equipe.nome}`}>Saiba mais</Link>
-            </Card>
-          )
-        })}
-      </Container>
+
+      <div>
+        <h1>Teams</h1>
+        <Container>
+          {data.equipes.map((equipe) => {
+            return (
+              <Card>
+                <ImgCard src={equipe.img}></ImgCard>
+                <p>{equipe.nome}</p>
+                <Link to={`/Teams/${equipe.nome}`}>Saiba mais</Link>
+              </Card>
+            )
+          })}
+        </Container>
+      </div>
     </main>
   )
 }

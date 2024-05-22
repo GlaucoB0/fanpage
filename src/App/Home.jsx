@@ -1,9 +1,9 @@
 
 const Home = () => {
   return (
-    <div>
+    <main>
       <h1>Wiki Haikyuu!</h1>
-    </div>
+    </main>
   )
 }
 
