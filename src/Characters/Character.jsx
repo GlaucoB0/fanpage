@@ -1,6 +1,6 @@
 import React from 'react'
 import data from '../data.json'
-import { CharacterContainer, InfoCharacter, NomeJapones } from './character'
+import { CharacterContainer, InfoCharacter, NomeJapones } from './character.js'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 
