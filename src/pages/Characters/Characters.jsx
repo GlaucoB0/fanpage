@@ -1,7 +1,6 @@
-import React from 'react'
+
 import { Link } from 'react-router-dom'
-import styled from 'styled-components'
-import data from '../data.json'
+import data from '../../data/data.json'
 import {
   Container,
   Card,

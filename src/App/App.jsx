@@ -9,12 +9,14 @@ import {
   Routes,
 } from "react-router-dom";
 
-import Characters from "../Characters/Characters";
-import Character from "../Characters/Character";
-import Teams from "../Teams/Teams";
-import Team from "../Teams/Team";
-import About from "../About/About";
-import NotFound from "../404/NotFound";
+import Characters from "../pages/Characters/Characters";
+import Character from "../pages/Characters/Character";
+import Teams from "../pages/Teams/Teams";
+import Team from "../pages/Teams/Team";
+import About from "../pages/About/About";
+import NotFound from "../pages/404/NotFound";
+import Login from "../pages/Login/Login";
+import Cadastro from "../pages/Login/Cadastro";
 
 const App = () => {
 
@@ -30,6 +32,8 @@ const App = () => {
         <Route path='/Teams' element={<Teams />} />
         <Route path='/Teams/:team' element={<Team />} />
         <Route path={`/Character/:linkNome`} element={<Character />} />
+        <Route path={`/Cadastro`} element={<Cadastro />} />
+        <Route path={`/Login`} element={<Login />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
 

@@ -1,6 +1,6 @@
-import React from 'react'
+
 import { useParams } from 'react-router-dom'
-import data from '../data.json'
+import data from '../../data/data.json'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
 
